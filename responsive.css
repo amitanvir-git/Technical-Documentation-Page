@@ -1,0 +1,22 @@
+@media only screen and (max-width:815px) {
+    #navbar {
+        background-color: white;
+        position: absolute !important;
+        top: 0;
+        padding: 0;
+        margin: 0;
+        width: 100% !important;
+        max-height: 275px;
+        border: none;
+    }
+    #navbar ul {
+        border: 1px solid;
+        height: 207px;
+    }
+
+    #main-doc {
+        position: relative !important;
+        margin-left: 0px !important;
+        margin-top: 300px !important;
+    }
+}
